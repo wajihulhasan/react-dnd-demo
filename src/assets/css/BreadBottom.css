@@ -1,0 +1,8 @@
+.breadBottom{
+    display: block;
+    width: 30%;
+    height: 10%;
+    border-radius: 0 0 30px 30px;
+    background: linear-gradient(#bc581e,#e27b36);
+    margin: 2% 
+}

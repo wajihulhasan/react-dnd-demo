@@ -1,0 +1,8 @@
+.cheese{
+    display: block;
+    width: 30%;
+    height: 5%;
+    border-radius: 20px;
+    background: linear-gradient(#f4d004,#d6bb22);
+    margin:2% 
+}

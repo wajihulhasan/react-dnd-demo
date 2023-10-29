@@ -1,0 +1,8 @@
+.breadTop{
+    display: block;
+    width: 30%;
+    height: 10%;
+    border-radius: 50% 50% 0 0;
+    background: linear-gradient(#bc581e,#e27b36);
+    margin: 2% 
+}

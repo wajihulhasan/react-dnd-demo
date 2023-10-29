@@ -1,0 +1,8 @@
+.meat{
+    display: block;
+    width: 30%;
+    height: 8%;
+    border-radius: 20px;
+    background: linear-gradient(#7f3608,#702e05);
+    margin:2% 
+}
