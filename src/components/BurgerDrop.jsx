@@ -77,7 +77,7 @@ const ingredients = [
 
 const BurgerDrop = () => {
     const [board, setBoard] = useState([]);
-
+    const [success, setSuccess] = useState(false);
     const [{ isOver }, drop] = useDrop(() => ({
         accept: "ingredient",
         drop: (item) => addImageToBoard(item.id),
